@@ -27,7 +27,7 @@ app.use('/api', apiRouter)
 app.use('/', pageRouter)
 
 app.use((req, res)=>{
-  res.render('404.ejs')
+  res.render('reactApp.ejs')
 })
 
 // make the app listen to port

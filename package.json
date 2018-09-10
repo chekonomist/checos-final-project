@@ -4,8 +4,9 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "dev": "npm-run-all dev:server",
-    "dev:server": "NODE_ENV=development nodemon server.js server.js --watch src --watch server.js",
+    "dev": "npm-run-all --parallel dev:server dev:webpack",
+    "dev:webpack": "./node_modules/.bin/webpack --watch",
+    "dev:server": "NODE_ENV=development nodemon server.js --watch src --watch server.js --ignore src/client",
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
