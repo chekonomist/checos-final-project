@@ -1,0 +1,99 @@
+id,property_type,deal_type,property_title,property_description,half_baths,parking_spaces,construction_square_meters,age,is_it_new,in_which_floor_is,monthly_rent,state,city,neighborhood,code_plus,street_name,exterior_number,zip_code,broker
+1,office buildings,rent,uno,lorem ipsum,5,28,229,5,FALSE,2,1145,Loira,Saint Etienne,Centre Deux,"C9FR+GG Saint-Étienne, Francia",Rue du Onze Novembre,82,42000,5
+2,industrial,rent,dos,lorem ipsum,2,0,101,6,FALSE,2,505,Loira,Saint Etienne,Centre Deux,"C9GR+2H Saint-Étienne, Francia",Rue du Onze Novembre,39,42100,1
+3,retail,buy,tres,lorem ipsum,2,7,591,11,FALSE,0,2955,Loira,Saint Etienne,Centre Deux,"C9GR+M6 Saint-Étienne, Francia",Rue du Onze Novembre,46,42100,3
+4,office buildings,rent,cuatro,lorem ipsum,2,28,277,11,FALSE,4,1385,Loira,Saint Etienne,Centre Deux,"C9FV+GP Saint-Étienne, Francia",Rue Thiollière,11,42100,8
+5,industrial,buy,cinco,lorem ipsum,2,9,718,10,FALSE,0,3590,Loira,Saint Etienne,Centre Deux,"C9FV+62 Saint-Étienne, Francia",Rue des Docteurs Charco,1,42100,4
+6,retail,buy,seis,lorem ipsum,1,3,629,8,FALSE,3,3145,Loira,Saint Etienne,Crêt de Roc,"C9XQ+7V Saint-Étienne, Francia",Rue du Treyv,9,42000,6
+7,office buildings,rent,siete,lorem ipsum,3,16,264,12,FALSE,4,1320,Loira,Saint Etienne,Crêt de Roc,"C9XR+76 Saint-Étienne, Francia",Boulevard Jules Janin,30,42100,6
+8,industrial,rent,ocho,lorem ipsum,2,0,293,19,FALSE,4,1465,Loira,Saint Etienne,Crêt de Roc,"C9RQ+9Q Saint-Étienne, Francia",Rue Michel Serve,7,42000,6
+9,retail,buy,nueve,lorem ipsum,2,9,399,1,FALSE,1,1995,Loira,Saint Etienne,Crêt de Roc,"C9WQ+FP Saint-Étienne, Francia",Rue Desjoyau,4,42000,10
+10,office buildings,buy,diez,lorem ipsum,2,17,177,16,FALSE,1,885,Loira,Saint Etienne,Crêt de Roc,"C9VR+84 Saint-Étienne, Francia",Rue de l'Éternité,51,42000,7
+11,industrial,rent,once,lorem ipsum,2,6,930,8,FALSE,4,4650,Loira,Saint Etienne,Crêt de Roc,"C9MQ+H6 Saint-Étienne, Francia",Cours Victor Hug,5,42000,1
+12,retail,buy,doce,lorem ipsum,2,3,939,20,FALSE,2,4695,Loira,Saint Etienne,La Métare,"CC86+99 Saint-Étienne, Francia","Rue Crozet Boussingault,",118,42100,3
+13,office buildings,buy,trece,lorem ipsum,3,17,235,0,TRUE,3,1175,Loira,Saint Etienne,La Métare,"CC99+73 Saint-Étienne, Francia",Boulevard Alexandre de Fraissinette,48,42100,4
+14,industrial,rent,catorce,lorem ipsum,1,2,864,13,FALSE,1,4320,Loira,Saint Etienne,La Métare,"CC96+WQ Saint-Étienne, Francia",Boulevard Alexandre de Fraissinett,1,42000,4
+15,retail,rent,quince,lorem ipsum,1,2,748,7,FALSE,0,3740,Loira,Saint Etienne,La Métare,"CC9C+G2 Saint-Étienne, Francia",Boulevard Alexandre de Fraissinette,90,42100,1
+16,office buildings,buy,dieciseis,lorem ipsum,4,11,849,18,FALSE,2,4245,Loira,Saint Etienne,La Métare,"CC99+9G Saint-Étienne, Francia",Boulevard Alexandre de Fraissinette,60,42100,8
+17,industrial,buy,diecisiete,lorem ipsum,2,9,894,13,FALSE,1,4470,Loira,Saint Etienne,Montaud - Grand Clos,"C9VG+89 Saint-Étienne, Francia",Rue Palluat de Besset,30,42007,4
+18,retail,buy,dieciocho,lorem ipsum,2,1,592,10,FALSE,3,2960,Loira,Saint Etienne,Montaud - Grand Clos,"C9RF+R4 Saint-Étienne, Francia",Rue du Dr Roux,16,42000,6
+19,office buildings,rent,diecinueve,lorem ipsum,1,8,93,3,FALSE,1,465,Loira,Saint Etienne,Montaud - Grand Clos,"C9RF+QP Saint-Étienne, Francia",Rue Saint-Just,43,42000,4
+20,industrial,rent,veinte,lorem ipsum,2,0,819,5,FALSE,1,4095,Loira,Saint Etienne,Montaud - Grand Clos,"C9XJ+VJ Saint-Étienne, Francia",Boulevard Albert 1er,15,42000,8
+21,retail,buy,veintiuno,lorem ipsum,2,7,787,13,FALSE,3,3935,Loira,Saint Etienne,Montaud - Grand Clos,"C9XH+QQ Saint-Étienne, Francia",Rue de la Visitation,22,42000,3
+22,office buildings,buy,veintidos,lorem ipsum,1,27,162,1,FALSE,4,810,Loira,Saint Etienne,Villeboef-Fauriel-Vivaraize,"CCF5+84 Saint-Étienne, Francia","Cours Fauriel,",158,42023,4
+23,industrial,rent,veintitres,lorem ipsum,2,2,268,15,FALSE,0,1340,Loira,Saint Etienne,Villeboef-Fauriel-Vivaraize,"CCJ5+RF Saint-Étienne, Francia",Rue Peyret Lallier,25,42000,6
+24,retail,rent,veinticuatro,lorem ipsum,1,0,471,15,FALSE,2,2355,Loira,Saint Etienne,Villeboef-Fauriel-Vivaraize,"CCJ4+99 Saint-Étienne, Francia",Rue Babeuf,35,42000,4
+25,office buildings,buy,veinticinco,lorem ipsum,3,5,502,6,FALSE,4,2510,Loira,Saint Etienne,Villeboef-Fauriel-Vivaraize,"CCH2+66 Saint-Étienne, Francia",Cours Fauriel,33,42100,7
+26,industrial,buy,veintiseis,lorem ipsum,2,5,988,13,FALSE,3,4940,Loira,Saint Etienne,Villeboef-Fauriel-Vivaraize,"CCG3+M4 Saint-Étienne, Francia",Cours Fauriel,98,42100,9
+27,retail,buy,veintisiete,lorem ipsum,1,7,410,8,FALSE,0,2050,Loira,Saint Etienne,La Richelandière - Monplaisir,"CCP7+C9 Saint-Étienne, Francia",Rue Richelandière,99,42100,9
+28,office buildings,buy,veintiocho,lorem ipsum,5,5,802,20,FALSE,2,4010,Loira,Saint Etienne,La Richelandière - Monplaisir,"CCM8+85 Saint-Étienne, Francia",Rue de Terrenoire,49,42100,6
+29,industrial,buy,veintinueve,lorem ipsum,1,1,124,8,FALSE,2,620,Loira,Saint Etienne,La Richelandière - Monplaisir,"CCM8+W4 Saint-Étienne, Francia","Rue Richelandière,",119,42100,8
+30,retail,buy,treinta,lorem ipsum,2,9,764,12,FALSE,1,3820,Loira,Saint Etienne,La Richelandière - Monplaisir,"CCP8+2M Saint-Étienne, Francia","Boulevard Normandie Niemen, 4",93-97,42000,9
+31,office buildings,rent,treintaiuno,lorem ipsum,2,22,944,13,FALSE,0,4720,Loira,Saint Etienne,La Richelandière - Monplaisir,"CCP8+85 Saint-Étienne, Francia",Rue Paul Ronin,12,42100,1
+32,industrial,buy,treina y dos,lorem ipsum,1,3,474,8,FALSE,1,2370,Loira,Saint Etienne,Saint Roch-Badouillère-Chavanelle,"C9MV+8X Saint-Étienne, Francia",Rue Jean Claude Tissot,25,42000,2
+33,retail,rent,treinta y tres,lorem ipsum,2,8,474,19,FALSE,0,2370,Loira,Saint Etienne,Saint Roch-Badouillère-Chavanelle,"C9MV+HP Saint-Étienne, Francia",Rue Jean Claude Tissot,16,42000,1
+34,office buildings,buy,treinta y cuatro,lorem ipsum,5,27,663,12,FALSE,2,3315,Loira,Saint Etienne,Saint Roch-Badouillère-Chavanelle,"C9MV+94 Saint-Étienne, Francia",Rue Mulatière,11,42100,10
+35,industrial,buy,treinta y cinco,lorem ipsum,2,1,234,6,FALSE,1,1170,Loira,Saint Etienne,Saint Roch-Badouillère-Chavanelle,"C9MR+QV Saint-Étienne, Francia",Place Chavanell,8,42000,8
+36,retail,rent,treinta y seis,lorem ipsum,1,4,534,3,FALSE,1,2670,Loira,Saint Etienne,Saint Roch-Badouillère-Chavanelle,"C9MR+MV Saint-Étienne, Francia",Place Chavanelle,20,42100,3
+37,office buildings,buy,treinta y siete,lorem ipsum,2,17,921,10,FALSE,4,4605,Loira,Saint Etienne,Beaulieu-Montchovet-Marandinière,"CCH6+JJ Saint-Étienne, Francia",Boulevard de la Palle,12,42000,2
+38,retail,rent,treinta y nueve,lorem ipsum,2,10,44,3,FALSE,0,220,Loira,Saint Etienne,Beaulieu-Montchovet-Marandinière,"CCH6+JG Saint-Étienne, Francia",Boulevard de la Palle,14,42100,10
+39,office buildings,buy,cuarenta,lorem ipsum,1,17,377,18,FALSE,4,1885,Loira,Saint Etienne,Beaulieu-Montchovet-Marandinière,"CCH5+JQ Saint-Étienne, Francia",Rue de Terrenoir,4,42100,4
+40,industrial,rent,cuarenta y uno,lorem ipsum,2,4,347,12,FALSE,0,1735,Loira,Saint Etienne,Beaulieu-Montchovet-Marandinière,"CCH5+JM Saint-Étienne, Francia",Rue de Terrenoir,4,42100,4
+41,retail,buy,cuarenta y dos,lorem ipsum,1,3,262,19,FALSE,2,1310,Loira,Saint Etienne,Jacquard-Préfecture,"C9RJ+PR Saint-Étienne, Francia",Place Jacquar,7,42000,2
+42,office buildings,rent,cuarenta y tres,lorem ipsum,1,16,368,11,FALSE,3,1840,Loira,Saint Etienne,Jacquard-Préfecture,"C9RM+J4 Saint-Étienne, Francia",Rue Praire,20,42000,9
+43,industrial,rent,cuarenta y cuatro,lorem ipsum,1,4,175,9,FALSE,2,875,Loira,Saint Etienne,Jacquard-Préfecture,"C9RM+JM Saint-Étienne, Francia",Rue Praire,11,42000,3
+44,retail,rent,cuarenta y cinco,lorem ipsum,2,6,762,9,FALSE,3,3810,Loira,Saint Etienne,Jacquard-Préfecture,"C9RM+PX Saint-Étienne, Francia",Rue Prair,2,42000,1
+45,office buildings,buy,cuarenta y seis,lorem ipsum,2,19,203,10,FALSE,3,1015,Loira,Saint Etienne,Jacquard-Préfecture,"C9VM+2X Saint-Étienne, Francia",Rue Dormoy,13,42000,3
+46,industrial,buy,cuarenta y siete,lorem ipsum,1,3,656,6,FALSE,2,3280,Loira,Saint Etienne,Châteucreux-Saint-Frainçois-Monthieu,"CCR7+83 Saint-Étienne, Francia","Rue des Alliés,",132,42000,8
+47,retail,rent,cuarenta y ocho,lorem ipsum,2,6,213,20,FALSE,3,1065,Loira,Saint Etienne,Châteucreux-Saint-Frainçois-Monthieu,"C9RX+XR Saint-Étienne, Francia",parvis Pierre Laroque (accès par allée port-sec) Saint-Etienne 4200,1,42000,4
+48,office buildings,buy,cuarenta y nueve,lorem ipsum,5,21,548,4,FALSE,0,2740,Loira,Saint Etienne,Châteucreux-Saint-Frainçois-Monthieu,"C9RX+9P Saint-Étienne, Francia",bis Boulevard Dalgabi,1,42000,2
+49,industrial,rent,cincuenta,lorem ipsum,2,0,446,12,FALSE,2,2230,Loira,Saint Etienne,Châteucreux-Saint-Frainçois-Monthieu,"CCR3+88 Saint-Étienne, Francia",Rue de la Montat,48,42100,4
+50,retail,buy,cincuenta y uno,lorem ipsum,1,3,615,18,FALSE,0,3075,Loira,Saint Etienne,Châteucreux-Saint-Frainçois-Monthieu,"CCR2+6V Saint-Étienne, Francia",Rue de la Montat,38,42000,8
+51,office buildings,rent,cincuenta y dos,lorem ipsum,3,14,365,9,FALSE,0,1825,Loira,Saint Etienne,La Terrasse-Bergson-Carnot,"F95J+CJ Saint-Étienne, Francia","Rue Bergson,",141,42000,8
+52,industrial,rent,cincuenta y tres,lorem ipsum,2,4,637,16,FALSE,4,3185,Loira,Saint Etienne,La Terrasse-Bergson-Carnot,"F95J+9R Saint-Étienne, Francia",Rue Léon Blum,29,42048,10
+53,retail,buy,cincuenta y cuatro,lorem ipsum,2,7,291,3,FALSE,2,1455,Loira,Saint Etienne,La Terrasse-Bergson-Carnot,"F95J+3P Saint-Étienne, Francia","Rue Bergson,",129,42000,3
+54,office buildings,rent,cincuenta y cinco,lorem ipsum,2,26,258,6,FALSE,2,1290,Loira,Saint Etienne,La Terrasse-Bergson-Carnot,"F94J+WJ Saint-Étienne, Francia","Rue Bergson,",123,42000,8
+55,industrial,rent,cincuenta y seis,lorem ipsum,2,8,1001,7,FALSE,4,5005,Loira,Saint Etienne,La Terrasse-Bergson-Carnot,"F94J+RQ Saint-Étienne, Francia","Rue Bergson,",119,42000,5
+56,retail,buy,cincuenta y siete,lorem ipsum,1,7,142,1,FALSE,3,710,Loira,Saint Etienne,Ctre Ville,"C9QP+VR Saint-Étienne, Francia",Rue Président Wilson,20,42000,5
+57,office buildings,buy,cincuenta y ocho,lorem ipsum,2,15,698,5,FALSE,1,3490,Loira,Saint Etienne,Ctre Ville,"C9QP+M2 Saint-Étienne, Francia","Rue Aristide Briand et de la Paix, ",11-Sep,42000,3
+58,industrial,rent,cincuenta y nueve,lorem ipsum,2,4,92,17,FALSE,3,460,Loira,Saint Etienne,Ctre Ville,"C9QP+HJ Saint-Étienne, Francia",Place Hôtel de vill,6,42000,1
+59,retail,rent,sesenta,lorem ipsum,2,2,383,13,FALSE,3,1915,Loira,Saint Etienne,Ctre Ville,"C9PR+H4 Saint-Étienne, Francia",Rue Georges Dupr,5,42000,2
+60,office buildings,rent,sesenta y uno,lorem ipsum,4,28,568,5,FALSE,4,2840,Loira,Saint Etienne,Ctre Ville,"C9QP+9R Saint-Étienne, Francia",Place Hôtel de ville,12,42000,5
+61,industrial,buy,sesenta y dos,lorem ipsum,2,7,660,0,TRUE,2,3300,Loira,Saint Etienne,Ctre Ville,"C9QP+2X Saint-Étienne, Francia",Rue Général Fo,8,42000,1
+62,retail,rent,sesenta y tres,lorem ipsum,2,2,309,11,FALSE,1,1545,Loira,Saint Etienne,Ctre Ville,"C9PP+RV Saint-Étienne, Francia",Rue Sainte-Catherin,4,42000,10
+63,industrial,buy,sesenta y cinco,lorem ipsum,2,5,265,5,FALSE,2,1325,Loira,Saint Etienne,Ctre Ville,"C9QQ+6R Saint-Étienne, Francia",Rue Saint-Jean,11,42000,9
+64,retail,buy,sesenta y seis,lorem ipsum,1,3,398,8,FALSE,4,1990,Loira,Saint Etienne,Ctre Ville,"C9QR+74 Saint-Étienne, Francia",Rue François Gille,7,42000,2
+65,office buildings,rent,sesenta y siete,lorem ipsum,5,16,838,11,FALSE,2,4190,Loira,Saint Etienne,Ctre Ville,"C9PR+J7 Saint-Étienne, Francia",Rue Georges Dupré,19,42000,10
+66,industrial,buy,sesenta y ocho,lorem ipsum,2,5,198,14,FALSE,2,990,Loira,Saint Etienne,Ctre Ville,"C9PR+53 Saint-Étienne, Francia",Rue des Martyrs de Vingré,44,42000,10
+67,retail,buy,sesenta y nueve,lorem ipsum,2,3,29,14,FALSE,0,145,Loira,Saint Etienne,Ctre Ville,"C9PR+2F Saint-Étienne, Francia",Rue Léon Nautin,27,42000,1
+68,office buildings,rent,setenta,lorem ipsum,4,14,682,0,TRUE,3,3410,Loira,Saint Etienne,Ctre Ville,"C9PR+HX Saint-Étienne, Francia",Rue Marcellin Allard,12,42000,10
+69,industrial,rent,setenta y uno,lorem ipsum,1,0,381,10,FALSE,1,1905,Loira,Saint Etienne,Cotonne-Devey-Malacussy,"C9CM+V5 Saint-Étienne, Francia",Boulevard Philippe Raoul Duval,35,42000,3
+70,retail,rent,setenta y dos,lorem ipsum,2,0,510,1,FALSE,0,2550,Loira,Saint Etienne,Cotonne-Devey-Malacussy,"C9CM+HJ Saint-Étienne, Francia",Pl Bobby Sands,19,42100,3
+71,office buildings,buy,setenta y tres,lorem ipsum,5,11,98,16,FALSE,2,490,Loira,Saint Etienne,Cotonne-Devey-Malacussy,"C9CM+CJ Saint-Étienne, Francia",Place Bobby Sands,26,42100,9
+72,industrial,buy,setenta y cuatro,lorem ipsum,2,5,972,15,FALSE,4,4860,Loira,Saint Etienne,Cotonne-Devey-Malacussy,"C9CM+7P Saint-Étienne, Francia",Rue Raoul Follereau,26,42100,1
+73,retail,buy,setenta y cinco,lorem ipsum,2,9,512,2,FALSE,2,2560,Loira,Saint Etienne,Cotonne-Devey-Malacussy,"C9CP+53 Saint-Étienne, Francia",Rue Dr Pot,6,42100,9
+74,office buildings,rent,setenta y seis,lorem ipsum,1,16,594,15,FALSE,1,2970,Loira,Saint Etienne,Cotonne-Devey-Malacussy,"C9CP+C2 Saint-Étienne, Francia",Place Bobby Sands,27,42100,5
+75,industrial,buy,setenta y siete,lorem ipsum,1,7,284,12,FALSE,3,1420,Loira,Saint Etienne,Cotonne-Devey-Malacussy,"C9CP+G6 Saint-Étienne, Francia",Rue René Cassin,11,42100,10
+76,retail,rent,setenta y ocho,lorem ipsum,2,10,559,10,FALSE,3,2795,Loira,Saint Etienne,Cotonne-Devey-Malacussy,"C9CJ+58 Saint-Étienne, Francia","Rue Louis Joseph Gras, 4",18-20,42100,10
+77,office buildings,buy,setenta y nueve,lorem ipsum,5,23,283,9,FALSE,0,1415,Loira,Saint Etienne,Le Solei,"CCX3+W8 Saint-Étienne, Francia",Rue de la Liberté,12,42000,6
+78,industrial,rent,ochenta,lorem ipsum,2,6,682,14,FALSE,1,3410,Loira,Saint Etienne,Le Solei,"CCX3+44 Saint-Étienne, Francia",Rue Beaunier,24,42000,9
+79,retail,rent,ochenta y uno,lorem ipsum,2,0,419,9,FALSE,3,2095,Loira,Saint Etienne,Le Solei,"CCX4+9X Saint-Étienne, Francia",Rue Denise Bastid,3,42016,8
+80,office buildings,rent,ochenta y dos,lorem ipsum,5,26,620,2,FALSE,4,3100,Loira,Saint Etienne,Le Solei,"CCX5+M5 Saint-Étienne, Francia",Rue Denise Bastid,4,42000,5
+81,industrial,rent,ochenta y tres,lorem ipsum,1,10,131,11,FALSE,0,655,Loira,Saint Etienne,Le Solei,"CCW6+86 Saint-Étienne, Francia",Rue Burdeau,26,42000,1
+82,retail,buy,ochenta y cuatro,lorem ipsum,2,7,414,13,FALSE,3,2070,Loira,Saint Etienne,Le Solei,"CCW4+FP Saint-Étienne, Francia",Boulevard Fauriat,27,42000,8
+83,office buildings,buy,ochenta y cinco,lorem ipsum,4,27,962,9,FALSE,1,4810,Loira,Saint Etienne,Le Solei,"FC24+CQ Saint-Étienne, Francia",Rue de la Talaudière,14,42100,2
+84,industrial,rent,ochenta y seis,lorem ipsum,2,0,420,19,FALSE,3,2100,Loira,Saint Etienne,Le Solei,"FC25+H4 Saint-Étienne, Francia",Rue du Serment du Jeu de Paum,1,42000,4
+85,retail,rent,ochenta y siete,lorem ipsum,2,4,826,7,FALSE,0,4130,Loira,Saint Etienne,Tardy-Colline des Pères,"C9HH+WQ Saint-Étienne, Francia",Rue Denis Epitalon,28,42000,5
+86,office buildings,rent,ochenta y ocho,lorem ipsum,2,14,189,12,FALSE,1,945,Loira,Saint Etienne,Tardy-Colline des Pères,"C9JJ+34 Saint-Étienne, Francia",Rue Denis Epitalon,35,42000,9
+87,industrial,rent,ochenta y nueve,lorem ipsum,1,8,738,9,FALSE,4,3690,Loira,Saint Etienne,Tardy-Colline des Pères,"C9HJ+M8 Saint-Étienne, Francia",Rue Denis Epitalon,37,42000,2
+88,retail,rent,noventa,lorem ipsum,1,4,113,2,FALSE,0,565,Loira,Saint Etienne,Tardy-Colline des Pères,"C9HJ+QV Saint-Étienne, Francia",Rue de Tardy,50,42000,5
+89,office buildings,rent,noventa y uno,lorem ipsum,3,8,704,2,FALSE,2,3520,Loira,Saint Etienne,Tardy-Colline des Pères,"C9HM+7G Saint-Étienne, Francia",Rue Vaillant Couturier,86,42000,2
+90,industrial,rent,noventa y dos,lorem ipsum,2,6,246,14,FALSE,2,1230,Loira,Saint Etienne,Tarentaize-Beaubrun-Séverine,"C9MJ+C2 Saint-Étienne, Francia",Rue Claude Deverchere,14,42000,7
+91,retail,rent,noventa y tres,lorem ipsum,1,4,747,17,FALSE,0,3735,Loira,Saint Etienne,Tarentaize-Beaubrun-Séverine,"C9MH+P6 Saint-Étienne, Francia",Rue de l'Apprentissage,17,42000,8
+92,office buildings,buy,noventa y cuatro,lorem ipsum,2,29,837,3,FALSE,0,4185,Loira,Saint Etienne,Tarentaize-Beaubrun-Séverine,"C9MF+PV Saint-Étienne, Francia",Rue Auguste Poncetto,8,42000,8
+93,industrial,buy,noventa y cinco,lorem ipsum,1,5,842,9,FALSE,0,4210,Loira,Saint Etienne,Tarentaize-Beaubrun-Séverine,"C9MF+W5 Saint-Étienne, Francia",Rue des Brunandières,14,42000,8
+94,retail,rent,noventa y seis,lorem ipsum,1,10,932,11,FALSE,3,4660,Loira,Saint Etienne,Tarentaize-Beaubrun-Séverine,"C9MC+RX Saint-Étienne, Francia",Rue des Brunandières,16,42000,7
+95,office buildings,rent,noventa y siete,lorem ipsum,1,18,859,1,FALSE,2,4295,Loira,Saint Etienne,Tarentaize-Beaubrun-Séverine,"C9PF+9J Saint-Étienne, Francia",Rue Calixte Plotto,7,42000,7
+96,industrial,rent,noventa y ocho,lorem ipsum,1,2,880,10,FALSE,2,4400,Loira,Saint Etienne,Tarentaize-Beaubrun-Séverine,"C9PF+8X Saint-Étienne, Francia",Rue Calixte Plotton,12,42000,3
+97,retail,buy,noventa y nueve,lorem ipsum,1,9,618,3,FALSE,0,3090,Loira,Saint Etienne,Tarentaize-Beaubrun-Séverine,"C9PJ+74 Saint-Étienne, Francia",Rue Jo Gouttebarge,24,42000,7
+98,office buildings,rent,cien,lorem ipsum,4,14,108,6,FALSE,1,540,Loira,Saint Etienne,Tarentaize-Beaubrun-Séverine,"C9QH+2J Saint-Étienne, Francia",Avenue Augustin Dupré,18,42000,4
