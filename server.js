@@ -71,7 +71,7 @@ app.set('views', `${__dirname}/src/views`)
 //create basic route handler
 app.use('/auth', authRouter )
 app.use('/api', apiRouter)
-app.use('/', pageRouter)
+// app.use('/', pageRouter)
 
 app.use((req, res)=>{
   res.render('reactApp.ejs')

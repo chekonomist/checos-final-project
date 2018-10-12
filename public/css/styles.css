@@ -1,3 +1,14 @@
+*{
+  box-sizing: border-box;
+}
 .checo-title {
   color: orange;
+}
+
+.container-prroperty-cards{
+
+}
+
+.filter-options-button{
+  margin-top: 10px;
 }

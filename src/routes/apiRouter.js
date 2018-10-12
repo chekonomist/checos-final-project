@@ -16,12 +16,15 @@ const fetchAllProperties = (req, res)=>{
 const fetchOneProperty = (req, res)=>{
   const db = req.app.locals.db
   const idInRoute = req.params._id
+  const relatedQuery = req.query.related_query
 
-  db.select('*').from('properties')
-      .where('id', '=', idInRoute)
-      .then((propertyRecords)=>{
-        res.json(propertyRecords[0])
-      })
+  Property
+    .query()
+    .eager(req.query.related_query)
+    .findById(idInRoute)
+    .then((recordsWithBrokers)=>{
+      res.status(200).json(recordsWithBrokers)
+    })
 }
 const createOneProperty = (req, res)=>{
   Property
